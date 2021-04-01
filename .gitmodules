@@ -325,7 +325,8 @@
 	url = https://github.com/minetest-mods/moreblocks.git
 [submodule "more_chests"]
 	path = more_chests
-	url = https://github.com/minetest-mods/more_chests.git
+	url = https://github.com/SwissalpS/more_chests.git
+	branch = dropboxFix
 [submodule "morelights"]
 	path = morelights
 	url = https://github.com/random-geek/morelights.git
@@ -550,3 +551,4 @@
 [submodule "bike"]
 	path = bike
 	url = https://gitlab.com/SwissalpS/bike.git
+
