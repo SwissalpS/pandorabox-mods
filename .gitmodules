@@ -99,7 +99,8 @@
 	url = https://github.com/minetest-mods/castle_weapons.git
 [submodule "ccompass"]
 	path = ccompass
-	url = https://github.com/minetest-mods/ccompass.git
+	url = https://github.com/SwissalpS/ccompass.git
+	branch = recipeIdeaB
 [submodule "charcoal"]
 	path = charcoal
 	url = https://github.com/pandorabox-io/charcoal.git
